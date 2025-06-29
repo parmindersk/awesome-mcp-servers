@@ -499,6 +499,7 @@ Tools and integrations that enhance the development workflow and environment man
 - [posthog/mcp](https://github.com/posthog/mcp) 🎖️ 📇 ☁️ - An MCP server for interacting with PostHog analytics, feature flags, error tracking and more.
 - [artmann/package-registry-mcp](https://github.com/artmann/package-registry-mcp) 🏠 📇 🍎 🪟 🐧 - MCP server for searching and getting up-to-date information about NPM, Cargo, PyPi, and NuGet packages.
 - [gitkraken/gk-cli](https://github.com/gitkraken/gk-cli) 🎖️ 🏎️ 🏠 ☁️ 🍎 🪟 🐧 - A CLI for interacting with GitKraken APIs. Includes an MCP server via `gk mcp` that not only wraps GitKraken APIs, but also Jira, GitHub, GitLab, and more. Works with local tools and remote services.
+- [parmindersk/mcp-starter](https://github.com/parmindersk/mcp-starter) -  mcp-starter is a secure, starter framework for building MCP servers with JWT-based authentication, multi-tenant enforcement, and schema validation. Built with Node.js,  docker ready.
 
 ### 🔒 <a name="delivery"></a>Delivery
 
